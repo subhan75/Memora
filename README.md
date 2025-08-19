@@ -1,4 +1,4 @@
-# 🧠 Memory-Powered Personal Assistant
+# 🧠Memora -  Memory-Powered Personal Assistant
 
 A sophisticated AI-powered chatbot that combines conversational memory, voice interaction, and sentiment analysis to provide a personalized mental health support experience.
 
