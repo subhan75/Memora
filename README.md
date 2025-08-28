@@ -257,22 +257,6 @@ cat .env
 - **Connection Pooling**: Reuse HTTP connections
 - **Request Batching**: Combine multiple API requests
 
-## 🔮 Future Enhancements
-
-### Planned Features
-- [ ] **Multi-language Support**: Internationalization for global users
-- [ ] **Advanced Analytics**: Detailed conversation insights and trends
-- [ ] **Integration APIs**: Connect with external mental health services
-- [ ] **Mobile App**: Native iOS and Android applications
-- [ ] **Group Sessions**: Multi-user conversation support
-- [ ] **Custom Models**: Fine-tuned models for specific use cases
-
-### Technical Improvements
-- [ ] **WebSocket Support**: Real-time bidirectional communication
-- [ ] **Database Integration**: Persistent storage for analytics
-- [ ] **Microservices**: Scalable architecture for production
-- [ ] **Docker Support**: Containerized deployment
-- [ ] **CI/CD Pipeline**: Automated testing and deployment
 
 ## 🤝 Contributing
 
@@ -292,24 +276,7 @@ cat .env
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **OpenAI**: For GPT-4 and Whisper APIs
-- **Mem0 AI**: For memory management capabilities
-- **Streamlit**: For the web interface framework
-- **TextBlob**: For sentiment analysis functionality
-
-## 📞 Support
-
-### Getting Help
-- **Documentation**: Check this README for common solutions
-- **Issues**: Report bugs via GitHub Issues
-- **Discussions**: Join community discussions for feature requests
-
-### Contact Information
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile]
-- **LinkedIn**: [your-linkedin-profile]
 
 ---
 
